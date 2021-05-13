@@ -1,20 +1,23 @@
 {
   "packages": [
     {
-      "name": "TleraCorp",
-      "maintainer": "Tlera Corp",
+      "name": "Rocksetta",
+      "maintainer": "RocksettaWare",
       "websiteURL": "https://github.com/grumpyoldpizza/ArduinoCore-stm32l0",
-      "email": "grumpyoldpizza@gmail.com",
+      "email": "keyfreemusic@gmail.com",
       "help": {
-        "online": "https://github.com/grumpyoldpizza/ArduinoCore-stm32l0/issues"
+        "online": "https://github.com/hpssjellis/portenta-lora-murata-stm32lo/issues"
       },
       "platforms": [
+        
+        
+        
         {
           "name": "Rocksetta Boards",
           "architecture": "mbed",
           "version": "0.0.1",
           "category": "Contributed",
-          "url": "https://github.com/hpssjellis/portenta-lora-murata-stm32lo/archive/0.0.3.tar.gz",
+          "url": "https://github.com/hpssjellis/portenta-lora-murata-stm32lo/archive/0.0.1.tar.gz",
           "archiveFileName": "portenta-lora-murata-stm32lo-0.0.3.tar.gz",
           "checksum": "MD5:a72afbc167c04e4370f84e552ebb1216",
           "size": "8803939",
@@ -29,6 +32,9 @@
             }
           ]
         }
+        
+        
+        
       ],
       "tools": [
       ]
