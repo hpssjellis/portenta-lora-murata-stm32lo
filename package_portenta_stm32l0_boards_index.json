@@ -18,9 +18,9 @@
           "version": "0.0.1",
           "category": "Contributed",
           "url": "https://github.com/hpssjellis/portenta-lora-murata-stm32lo/archive/0.0.1.tar.gz",
-          "archiveFileName": "portenta-lora-murata-stm32lo-0.0.3.tar.gz",
+          "archiveFileName": "portenta-lora-murata-stm32lo-v0.0.1.tar.gz",
           "checksum": "MD5:a72afbc167c04e4370f84e552ebb1216",
-          "size": "8803939",
+          "size": "9746908",
           "boards": [
             {"name": "B-L072Z-LRWAN1"}
           ],
