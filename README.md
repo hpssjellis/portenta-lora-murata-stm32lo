@@ -1,3 +1,39 @@
+# portenta-lora-murata-stm32lo
+
+
+This github has been forked from https://github.com/facchinm/ArduinoCore-stm32l0 by Arduino which in turn was forked from https://github.com/GrumpyOldPizza/ArduinoCore-stm32l0 which allows full control of the murata module on the Portenta H7 LoRa Vision Shield.
+
+
+Unfortuantely we are not given an enormous amount of memory to work with so I will have to try to get the MKRWAN library working as well to be able to completely use the LoRaWan capabilities.
+
+
+
+
+Presently I install the GrumplyOldPizza Tlera board and then copy all these files to replace the Tlera board, but I am working on a better method. The json file for the Arduino IDA preferences is here 
+
+```https://grumpyoldpizza.github.io/ArduinoCore-stm32l0/package_stm32l0_boards_index.json``` but I am working on a JSON for this board.
+
+
+Huge Thanks to both the previous repositories for getting this working.
+.
+
+.
+
+.
+
+
+
+.
+
+
+.
+
+
+
+
+
+# The old readdme is below
+
 # Arduino Core for STM32L0 based boards
 
 ## What is it ?
