@@ -15,6 +15,11 @@ Presently I install the GrumplyOldPizza Tlera board and then copy all these file
 
 
 Huge Thanks to both the previous repositories for getting this working.
+
+
+My version of the board deffinitions for the comma seperated preferences Arduino IDE is here.
+
+```https://hpssjellis.github.io/portenta-lora-murata-stm32lo/package_portenta_stm32l0_boards_index.json```
 .
 
 .
