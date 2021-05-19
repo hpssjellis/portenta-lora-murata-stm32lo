@@ -12,7 +12,7 @@
         {
           "name": "Rocksetta Boards",
           "architecture": "mbed",
-          "version": "0.0.1",
+          "version": "0.2.0",
           "category": "Contributed",
           "systems": [
             {
