@@ -37,7 +37,7 @@ My version of the board deffinitions for the comma seperated preferences Arduino
 
 
 
-# The old readdme is below
+# The old README.md is below
 
 # Arduino Core for STM32L0 based boards
 
