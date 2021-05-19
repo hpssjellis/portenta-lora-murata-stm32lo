@@ -8,7 +8,7 @@
       "help": {
         "online": "https://github.com/hpssjellis/portenta-lora-murata-stm32lo/issues"
       },
-      "platforms": [ 
+      "platforms": [
         {
           "name": "Rocksetta Boards",
           "architecture": "mbed",
@@ -31,7 +31,9 @@
             }
           ],
           "boards": [
-            {"name": "B-L072Z-LRWAN1"}
+            {
+              "name": "B-L072Z-LRWAN1"
+            }
           ],
           "toolsDependencies": [
             {
@@ -40,10 +42,9 @@
               "version": "4.8.3-2014q1"
             }
           ]
-        }   
+        }
       ],
-      "tools": [
-      ]
+      "tools": []
     }
   ]
 }
