@@ -1,8 +1,8 @@
 {
   "packages": [
     {
-      "name": "Rocksetta",
-      "maintainer": "RocksettaWare",
+      "name": "portenta-lora-murata-stm32lo",
+      "maintainer": "Rocksetta",
       "websiteURL": "https://github.com/hpssjellis/portenta-lora-murata-stm32lo",
       "email": "keyfreemusic@gmail.com",
       "help": {
