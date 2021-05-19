@@ -8,19 +8,28 @@
       "help": {
         "online": "https://github.com/hpssjellis/portenta-lora-murata-stm32lo/issues"
       },
-      "platforms": [
-        
-        
-        
+      "platforms": [ 
         {
           "name": "Rocksetta Boards",
           "architecture": "mbed",
           "version": "0.0.1",
           "category": "Contributed",
-          "url": "https://github.com/hpssjellis/portenta-lora-murata-stm32lo/releases/download/0.0.1/portenta-lora-murata-stm32lo.tar.xz",
-          "archiveFileName": "portenta-lora-murata-stm32lo-v0.0.1.tar.xz",
-          "checksum": "MD5:a72afbc167c04e4370f84e552ebb1216",
-          "size": "9746908", 
+          "systems": [
+            {
+              "url": "https://github.com/hpssjellis/portenta-lora-murata-stm32lo/releases/download/0.0.1/portenta-lora-murata-stm32lo.tar.xz",
+              "checksum": "MD5:a72afbc167c04e4370f84e552ebb1216",
+              "host": "i686-mingw32",
+              "archiveFileName": "portenta-lora-murata-stm32lo-v0.0.1.tar.xz",
+              "size": "9746908"
+            },
+            {
+              "url": "https://dl.espressif.com/dl/esptool-2.6.0-linux.tar.gz",
+              "checksum": "SHA-256:6d162f70f395ca31f5008829dd7e833e729f044a9c7355d5be8ce333a054e110",
+              "host": "x86_64-pc-linux-gnu",
+              "archiveFileName": "esptool-2.6.0-linux.tar.gz",
+              "size": "43535"
+            }
+          ],
           "boards": [
             {"name": "B-L072Z-LRWAN1"}
           ],
@@ -31,10 +40,7 @@
               "version": "4.8.3-2014q1"
             }
           ]
-        }
-        
-        
-        
+        }   
       ],
       "tools": [
       ]
